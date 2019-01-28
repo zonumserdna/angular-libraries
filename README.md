@@ -26,6 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-## Project goal
+## Project goals
 
-This project was created in order to learn [how to create libraries](https://blog.angularindepth.com/creating-a-library-in-angular-6-87799552e7e5) with angular
+This project was created in order to learn [how to create libraries](https://blog.angularindepth.com/creating-a-library-in-angular-6-87799552e7e5) with angular cli and [how to package](https://blog.angularindepth.com/creating-a-library-in-angular-6-part-2-6e2bc1e14121) them to install in other application
