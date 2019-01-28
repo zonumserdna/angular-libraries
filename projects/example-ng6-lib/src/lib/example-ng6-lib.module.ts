@@ -6,6 +6,6 @@ import { FooComponent } from './foo/foo.component';
   declarations: [ExampleNg6LibComponent, FooComponent],
   imports: [
   ],
-  exports: [ExampleNg6LibComponent]
+  exports: [ExampleNg6LibComponent, FooComponent]
 })
 export class ExampleNg6LibModule { }
